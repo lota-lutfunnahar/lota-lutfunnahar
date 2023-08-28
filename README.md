@@ -24,6 +24,13 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lota-lutfunnahar&theme=radical" alt="lutfunnahar" height="139" /></p>
 
 
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/><br>
+
+</p>
+
 <!--
 **lota-lutfunnahar/lota-lutfunnahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
