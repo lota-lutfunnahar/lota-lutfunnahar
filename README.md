@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lutfunnahar Lota</h1>
-<h3 align="center">A passionate Software Engineer who always loved to work on new technologhy</h3>
+<h3 align="center">I'm a 🚀 passionate Software Engineer 🚀, I ❤️ to work on new technologhy ❤️</h3>
 <br>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile" /> </p>
 <br>
